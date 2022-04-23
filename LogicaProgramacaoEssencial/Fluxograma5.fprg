@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Sabrina"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-04-22 05:23:09 "/>
+        <attribute name="created" value="U2FicmluYTtERVNLVE9QLTQ5OFNSNFM7MjAyMi0wNC0yMDsiMTA6NTg6MTggIjsyOTQy"/>
+        <attribute name="edited" value="U2FicmluYTtERVNLVE9QLTQ5OFNSNFM7MjAyMi0wNC0yMjsiMDU6MjM6MDkgIjsyOzMwNDk="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nota1, nota2, nota3, nota4, media" type="Real" array="False" size=""/>
+            <input variable="nota1"/>
+            <input variable="nota2"/>
+            <input variable="nota3"/>
+            <input variable="nota4"/>
+            <assign variable="media" expression="(nota1+nota2+nota3+nota4)/4"/>
+            <output expression="media" newline="True"/>
+            <if expression="media &gt;10">
+                <then>
+                    <output expression="&quot;Parab&#233;ns, n&#227;o fez mais que sua obriga&#231;&#227;o!&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Reprovado. Estude mais.&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
