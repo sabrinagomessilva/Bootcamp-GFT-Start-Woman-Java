@@ -4,7 +4,7 @@ O Bootcamp GFT Start Woman Java é um programa gratuito direcionado para desenvol
 
 Este Bootcamp termina em 31/05/2022.
 
-# Os 5 C da GFT: <h2> 
+### Os 5 C da GFT:
 1. *Cuidado*
 2. *Compromisso*
 3. *Colaboração*
