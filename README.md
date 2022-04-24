@@ -18,7 +18,7 @@ Este Bootcamp termina em 31/05/2022.
 
 <h1>
 
-## Links úteis: Anotações <h1>
+## Links úteis: Anotações
 ✏  [Estrutura de Dados e Algoritmos](https://www.notion.so/sabrinagomes/Estrutura-de-Dados-9193d8a68f12454790d1eda244624581)
 
 ✏  [Introdução ao Git e ao GitHub](https://www.notion.so/sabrinagomes/Introdu-o-ao-Git-e-ao-GitHub-ec6a7ad5b70e422a8a21794236835ea6)
@@ -26,6 +26,7 @@ Este Bootcamp termina em 31/05/2022.
 ✏  [Lógica de Programação Essencial](https://www.notion.so/sabrinagomes/L-gica-e-Programa-o-Essencial-eb2af3383c154819b638d1dcc1365de0)
 
 ✏  [Primeiro desafio: Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](https://www.notion.so/sabrinagomes/Estrutura-de-Dados-9193d8a68f12454790d1eda244624581)
+
 ✏ Sobre a [GFT](https://www.gft.com/br/pt/about-us)
 
 <h3>
