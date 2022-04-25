@@ -1,6 +1,8 @@
 ﻿# ☕Curso Bootcamp GFT Start Woman Java
+## Primeiro desafio Criando seu Primeiro Repositório no GitHub
+<h3>
 
-
+![b4e371619042d1e80918d09904e90f7d](https://user-images.githubusercontent.com/78277341/165013980-4db5f39b-b3a2-4d3e-8090-40a37e212ab5.gif)
 
 O Bootcamp GFT Start Woman Java é um programa gratuito direcionado para desenvolvedoras que estão começando a jornada na tecnologia! O programa explora uma trilha completa em Java com cursos, desafios práticos e mentorias exclusivas com experts da multinacional.
 
@@ -18,7 +20,7 @@ Este Bootcamp termina em 31/05/2022.
 
 <h1>
 
-## Links úteis: Anotações
+## Links Úteis: Anotações
 ✏  [Estrutura de Dados e Algoritmos](https://www.notion.so/sabrinagomes/Estrutura-de-Dados-9193d8a68f12454790d1eda244624581)
 
 ✏  [Introdução ao Git e ao GitHub](https://www.notion.so/sabrinagomes/Introdu-o-ao-Git-e-ao-GitHub-ec6a7ad5b70e422a8a21794236835ea6)
