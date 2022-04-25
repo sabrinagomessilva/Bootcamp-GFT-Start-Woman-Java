@@ -1,6 +1,6 @@
 ﻿# ☕Curso Bootcamp GFT Start Woman Java
 ## Primeiro desafio Criando seu Primeiro Repositório no GitHub
-<h3>
+
 
 ![b4e371619042d1e80918d09904e90f7d](https://user-images.githubusercontent.com/78277341/165013980-4db5f39b-b3a2-4d3e-8090-40a37e212ab5.gif)
 
@@ -16,7 +16,7 @@ Este Bootcamp termina em 31/05/2022.
 5. *Criatividade*
 
 ![Os 5 C da GFT](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b6c5bde3-0813-4a5c-bf8a-77ada991a820/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220424%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220424T153607Z&X-Amz-Expires=86400&X-Amz-Signature=12eba327a5997ce6a7b30b426032d0636b37024db1c17fc35302d2463b9d0fb1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
-<h3>
+
 
 <h1>
 
