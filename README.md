@@ -29,6 +29,10 @@ Este Bootcamp termina em 31/05/2022.
 
 ✏  [Primeiro desafio: Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](https://www.notion.so/sabrinagomes/Estrutura-de-Dados-9193d8a68f12454790d1eda244624581)
 
+✏  [Entendendo Métodos Java](https://www.notion.so/sabrinagomes/Entendendo-M-todos-Java-9208694a42fd4b8f876a8fa6401ae482)
+
+✏ [Variáveis, Tipos de Dados e Operadores Matemáticos em Java](https://www.notion.so/sabrinagomes/Vari-veis-Tipos-de-Dados-e-Operadores-Matem-ticos-em-Java-047418659a2f4797b36be12f08ba4736)
+
 ✏ Sobre a [GFT](https://www.gft.com/br/pt/about-us)
 
 <h3>
