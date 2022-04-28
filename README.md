@@ -15,9 +15,7 @@ Este Bootcamp termina em 31/05/2022.
 4. *Coragem*
 5. *Criatividade*
 
-![Os 5 C da GFT](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b6c5bde3-0813-4a5c-bf8a-77ada991a820/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220424%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220424T153607Z&X-Amz-Expires=86400&X-Amz-Signature=12eba327a5997ce6a7b30b426032d0636b37024db1c17fc35302d2463b9d0fb1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
-
-
+![Os 5 C da GFT](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b6c5bde3-0813-4a5c-bf8a-77ada991a820/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220428%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220428T161238Z&X-Amz-Expires=86400&X-Amz-Signature=fd5d5bce61da41a0c1c2249d4fdb5bd10f18b3ca960cd8eda477673aa4ebcefe&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 <h1>
 
 ## Links Úteis: Anotações
@@ -32,6 +30,8 @@ Este Bootcamp termina em 31/05/2022.
 ✏  [Entendendo Métodos Java](https://www.notion.so/sabrinagomes/Entendendo-M-todos-Java-9208694a42fd4b8f876a8fa6401ae482)
 
 ✏ [Variáveis, Tipos de Dados e Operadores Matemáticos em Java](https://www.notion.so/sabrinagomes/Vari-veis-Tipos-de-Dados-e-Operadores-Matem-ticos-em-Java-047418659a2f4797b36be12f08ba4736)
+
+✏ [Lógica Condicional e Controle de Fluxos em Java](https://www.notion.so/sabrinagomes/L-gica-Condicional-e-Controle-de-Fluxos-em-Java-f44345c3f25d428f9a412a41df799d14)
 
 ✏ Sobre a [GFT](https://www.gft.com/br/pt/about-us)
 
