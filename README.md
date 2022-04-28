@@ -1,5 +1,5 @@
-﻿# ☕Curso Bootcamp GFT Start Woman Java
-## Primeiro desafio Criando seu Primeiro Repositório no GitHub
+﻿# ☕Curso: Bootcamp GFT Start Woman Java
+## Primeiro desafio: Criando Repositório no GitHub:
 
 
 ![b4e371619042d1e80918d09904e90f7d](https://user-images.githubusercontent.com/78277341/165013980-4db5f39b-b3a2-4d3e-8090-40a37e212ab5.gif)
