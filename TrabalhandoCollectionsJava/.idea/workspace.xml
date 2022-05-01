@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09fe862d-a892-49d1-b7b7-8fb250ba1f10" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trabalhando_Collections.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/colletctions/ExemploList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/colletctions/ExemploOrdenacaoSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/colletctions/ExemploSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/colletctions/OrdenacaoElementos_parte1.java" afterDir="false" />
-    </list>
+    <list default="true" id="09fe862d-a892-49d1-b7b7-8fb250ba1f10" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,19 +29,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ExemploOrdenacaoSet">
-    <configuration name="ExemploList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dio.colletctions.ExemploList" />
+}</component>
+  <component name="RunManager" selected="Application.ExemploOrenacaoMap">
+    <configuration name="ExemploMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dio.colletctions.Map.ExemploMap" />
       <module name="Trabalhando_Collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dio.colletctions.*" />
+          <option name="PATTERN" value="dio.colletctions.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,6 +55,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="dio.colletctions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploOrenacaoMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dio.colletctions.Map.ExemploOrenacaoMap" />
+      <module name="Trabalhando_Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dio.colletctions.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,10 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExemploOrenacaoMap" />
+        <item itemvalue="Application.ExemploMap" />
         <item itemvalue="Application.ExemploOrdenacaoSet" />
         <item itemvalue="Application.ExemploSet" />
         <item itemvalue="Application.OrdenacaoElementos_parte1" />
-        <item itemvalue="Application.ExemploList" />
       </list>
     </recent_temporary>
   </component>
