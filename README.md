@@ -33,6 +33,10 @@ Este Bootcamp termina em 31/05/2022.
 
 ✏ [Lógica Condicional e Controle de Fluxos em Java](https://www.notion.so/sabrinagomes/L-gica-Condicional-e-Controle-de-Fluxos-em-Java-f44345c3f25d428f9a412a41df799d14)
 
+✏ [Estruturas de Repetição e Arrays em Java](https://www.notion.so/sabrinagomes/Estruturas-de-Repeti-o-e-Arrays-em-Java-1e95889981734234b1bfc3cd3fb1aa07)
+
+✏ [Trabalhando com Collections Java](https://www.notion.so/sabrinagomes/Trabalhando-com-Collections-Java-a77df57249df404db99ec370cb25857b)
+
 ✏ Sobre a [GFT](https://www.gft.com/br/pt/about-us)
 
 <h3>
