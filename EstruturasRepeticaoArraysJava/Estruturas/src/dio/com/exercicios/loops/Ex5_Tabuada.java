@@ -9,9 +9,6 @@ public class Ex5_Tabuada {
         int multiplicando = 0;
         int resultado = 0;
 
-
-        int count = 0;
-
         System.out.println("Digite número: ");
         multiplicador = scan.nextInt();
 
