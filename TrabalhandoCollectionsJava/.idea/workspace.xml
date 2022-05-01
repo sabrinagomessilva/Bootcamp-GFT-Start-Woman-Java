@@ -35,13 +35,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExemploOrenacaoMap">
+  <component name="RunManager" selected="Application.dio.colletctions.Map.ExemploOrenacaoMap">
     <configuration name="ExemploMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dio.colletctions.Map.ExemploMap" />
       <module name="Trabalhando_Collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dio.colletctions.Map.*" />
+          <option name="PATTERN" value="dio.colletctions.Map.ExemploOrdenacaoMap" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,7 +67,7 @@
       <module name="Trabalhando_Collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dio.colletctions.Map.*" />
+          <option name="PATTERN" value="dio.colletctions.Map.ExemploOrdenacaoMap" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,8 +103,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExemploOrenacaoMap" />
-        <item itemvalue="Application.ExemploMap" />
+        <item itemvalue="Application.dio.colletctions.Map.ExemploOrenacaoMap" />
+        <item itemvalue="Application.dio.colletctions.Map.ExemploMap" />
         <item itemvalue="Application.ExemploOrdenacaoSet" />
         <item itemvalue="Application.ExemploSet" />
         <item itemvalue="Application.OrdenacaoElementos_parte1" />
