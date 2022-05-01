@@ -25,6 +25,9 @@ Este Bootcamp termina em 31/05/2022.
 
 ✏  [Lógica de Programação Essencial](https://www.notion.so/sabrinagomes/L-gica-e-Programa-o-Essencial-eb2af3383c154819b638d1dcc1365de0)
 
+✏ [Dominando IDEs Java](https://www.notion.so/sabrinagomes/Dominando-IDEs-Java-8aa00bb8c1824276af7e57784b8da4b0)
+
+
 ✏  [Primeiro desafio: Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](https://www.notion.so/sabrinagomes/Estrutura-de-Dados-9193d8a68f12454790d1eda244624581)
 
 ✏  [Entendendo Métodos Java](https://www.notion.so/sabrinagomes/Entendendo-M-todos-Java-9208694a42fd4b8f876a8fa6401ae482)
@@ -36,6 +39,7 @@ Este Bootcamp termina em 31/05/2022.
 ✏ [Estruturas de Repetição e Arrays em Java](https://www.notion.so/sabrinagomes/Estruturas-de-Repeti-o-e-Arrays-em-Java-1e95889981734234b1bfc3cd3fb1aa07)
 
 ✏ [Trabalhando com Collections Java](https://www.notion.so/sabrinagomes/Trabalhando-com-Collections-Java-a77df57249df404db99ec370cb25857b)
+
 
 ✏ Sobre a [GFT](https://www.gft.com/br/pt/about-us)
 
