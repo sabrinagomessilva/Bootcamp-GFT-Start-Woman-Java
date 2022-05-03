@@ -24,8 +24,6 @@ Este Bootcamp termina em 31/05/2022.
 </details> </p>
 
 ##
-
-
 ## 🔸 Desafios 
 
 | Desafio                                                                                                                                  | Status       |
