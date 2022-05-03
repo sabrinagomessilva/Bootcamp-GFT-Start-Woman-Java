@@ -58,6 +58,8 @@ Este Bootcamp termina em 31/05/2022.
 
 🖰 [Tratamento de Exceções em Java](https://www.notion.so/sabrinagomes/Tratamento-de-Exce-es-em-Java-f2416c3fa4184d81907eac2714df2694)
 
+🖰 [Programação Orientada a Objetos](https://www.notion.so/sabrinagomes/Programa-o-Orientada-a-Objetos-1562205b031f4db2b610859cdfbddd6d)
+
 
 🖰 Sobre a [GFT](https://www.gft.com/br/pt/about-us)
 
