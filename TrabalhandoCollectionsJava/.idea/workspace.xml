@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09fe862d-a892-49d1-b7b7-8fb250ba1f10" name="Changes" comment="" />
+    <list default="true" id="09fe862d-a892-49d1-b7b7-8fb250ba1f10" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Desafios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/Desafios.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/src/desafios/dio/DesafioDaCoxinha.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
