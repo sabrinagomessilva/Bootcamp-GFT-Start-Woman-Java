@@ -11,7 +11,7 @@ Este Bootcamp termina em 31/05/2022.
 <details><summary>Os 5 C da GFT: 👋</summary>
 <p>
 
-#### Os 𝟓 C da GFT: 👋
+### Os 𝟓 C da GFT: 👋
 
     
 1. *Cuidado*
@@ -29,7 +29,7 @@ Este Bootcamp termina em 31/05/2022.
 ##
 
 
-#### 🔸 Desafios
+### 🔸 Desafios 
 
 | Desafio                                                                                                                                  | Status       |
 |------------------------------------------------------------------------------------------------------------------------------------------|--------------|
@@ -37,7 +37,7 @@ Este Bootcamp termina em 31/05/2022.
 | [Desafio Copa do Mundo](https://github.com/sabrinagomessilva/Bootcamp-GFT-Start-Woman-Java/blob/main/DesafiosDio/DesafioCopa.java)       | ✅ |
 | [Célula de conteúdo](https://github.com/sabrinagomessilva/Bootcamp-GFT-Start-Woman-Java/blob/main/DesafiosDio/Degustacaodevinho.java)    | ✅ |
 
-#### 🔸 Links Úteis: Anotações
+### 🔸 Links Úteis: Anotações
 🖰 [Estrutura de Dados e Algoritmos](https://www.notion.so/sabrinagomes/Estrutura-de-Dados-9193d8a68f12454790d1eda244624581)
 
 🖰 [Introdução ao Git e ao GitHub](https://www.notion.so/sabrinagomes/Introdu-o-ao-Git-e-ao-GitHub-ec6a7ad5b70e422a8a21794236835ea6)
