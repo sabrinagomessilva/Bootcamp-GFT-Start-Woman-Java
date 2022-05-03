@@ -54,6 +54,10 @@ Este Bootcamp termina em 31/05/2022.
 
 🖰 [Trabalhando com Collections Java](https://www.notion.so/sabrinagomes/Trabalhando-com-Collections-Java-a77df57249df404db99ec370cb25857b)
 
+🖰 [Debugging Java](https://www.notion.so/sabrinagomes/Debugging-Java-1f28415ca95b4083ae44c7fb9003689c)
+
+🖰 [Tratamento de Exceções em Java](https://www.notion.so/sabrinagomes/Tratamento-de-Exce-es-em-Java-f2416c3fa4184d81907eac2714df2694)
+
 
 🖰 Sobre a [GFT](https://www.gft.com/br/pt/about-us)
 
