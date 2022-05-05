@@ -62,6 +62,8 @@ Este Bootcamp termina em 31/05/2022.
 
 🖰 [Criando um Banco Digital com Java e Orientação a Objetos](https://www.notion.so/sabrinagomes/Criando-um-Banco-Digital-com-Java-e-Orienta-o-a-Objetos-b6bb39195cdc47ee911ed3ee9e525e98)
 
+🖰 [Introdução ao HTTP/HTTPS](https://www.notion.so/sabrinagomes/Introdu-o-ao-HTTP-HTTPS-bbac1b74b5344b0a84e347e3f2513abd)
+
 
 🖰 Sobre a [GFT](https://www.gft.com/br/pt/about-us)
 
