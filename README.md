@@ -60,6 +60,8 @@ Este Bootcamp termina em 31/05/2022.
 
 🖰 [Programação Orientada a Objetos](https://www.notion.so/sabrinagomes/Programa-o-Orientada-a-Objetos-1562205b031f4db2b610859cdfbddd6d)
 
+🖰 [Criando um Banco Digital com Java e Orientação a Objetos](https://www.notion.so/sabrinagomes/Criando-um-Banco-Digital-com-Java-e-Orienta-o-a-Objetos-b6bb39195cdc47ee911ed3ee9e525e98)
+
 
 🖰 Sobre a [GFT](https://www.gft.com/br/pt/about-us)
 
