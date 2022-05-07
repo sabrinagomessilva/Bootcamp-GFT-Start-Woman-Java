@@ -30,7 +30,8 @@ Este Bootcamp termina em 31/05/2022.
 |------------------------------------------------------------------------------------------------------------------------------------------|--------------|
 | [Desafio Coxinha de Bueno](https://github.com/sabrinagomessilva/Bootcamp-GFT-Start-Woman-Java/blob/main/DesafiosDio/DesafioCoxinha.java) | ✅ |
 | [Desafio Copa do Mundo](https://github.com/sabrinagomessilva/Bootcamp-GFT-Start-Woman-Java/blob/main/DesafiosDio/DesafioCopa.java)       | ✅ |
-| [Célula de conteúdo](https://github.com/sabrinagomessilva/Bootcamp-GFT-Start-Woman-Java/blob/main/DesafiosDio/Degustacaodevinho.java)    | ✅ |
+| [Desafio do Vinho](https://github.com/sabrinagomessilva/Bootcamp-GFT-Start-Woman-Java/blob/main/DesafiosDio/Degustacaodevinho.java)      | ✅ |
+| [Desafio String - Explorando Padrões](https://github.com/sabrinagomessilva/Bootcamp-GFT-Start-Woman-Java/tree/main/DesafioSpring)     | ✅ |
 
 ##
 ## 🔸 Links Úteis: Anotações 
