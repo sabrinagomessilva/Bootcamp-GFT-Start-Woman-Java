@@ -67,6 +67,8 @@ Este Bootcamp termina em 31/05/2022.
 
 🖰 [Simplificando Projetos Java com o Spring Boot](https://www.notion.so/sabrinagomes/Simplificando-Projetos-Java-com-o-Spring-Boot-b88e6d97ffa4468187d4ee37dfd8c940)
 
+🖰 [Explorando Padrões de Projetos na Prática com Java](https://www.notion.so/sabrinagomes/Explorando-Padr-es-de-Projetos-na-Pr-tica-com-Java-3e8a3df1e3724bde94964cbe808db716)
+
 
 🖰 Sobre a [GFT](https://www.gft.com/br/pt/about-us)
 
